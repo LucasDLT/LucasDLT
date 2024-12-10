@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**LucasDLT/LucasDLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Lucas Sebastian de la TORRE
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy un profesional con una trayectoria de 13 años en el ámbito de la seguridad pública, desarrolle y perfeccione habilidades esenciales que ahora busco aplicar en el sector IT. Durante mi carrera, desempeñé diversos roles que me permitieron adquirir una amplia experiencia en gestión de equipos, resolución de problemas y atención al cliente.
+Poseo una Tecnicatura Superior en Seguridad Pública y Ciudadana, y mi formación secundaria tuvo una orientación contable, lo que me brindó una sólida base en organización y gestión administrativa.
+Actualmente, me estoy formando en el área de IT y busco oportunidades para aplicar mis habilidades en un nuevo entorno, para ello finalice con éxito cursos en Desarrollo web, Javascript y React Js, dictados en Coderhouse y para potenciar este conocimiento actualmente me encuentro en el tramo final de la formación intensiva como Full Stack Developer en Henry.
+
+---
+
+## 🛠️ Tecnologías que manejo
+
+Estas son algunas de las herramientas y tecnologías con las que trabajo regularmente:
+
+- **Lenguajes de programación**: [JavaScript, TypeScript, HTML]
+- **Lenguajes de diseño y estilos**: [CSS, Sass, Styled Components]
+- **Frameworks y Librerías**: [React, Next.js, Bootstrap, Express]
+- **Entornos de ejecución**: [Node.js]
+- **Bases de datos**: [PostgreSQL, MongoDB, Firebase]
+- **Otras herramientas**: [Git, Figma, Cloudinary]
+
+---
+
+## 🚀 Tecnologías que estoy aprendiendo
+
+Siempre estoy en constante aprendizaje. Actualmente me estoy enfocando en:
+
+- [C#]
+
+---
+
+## 🌟 Mis objetivos
+
+Mi meta es ["convertirme en un desarrollador/a full-stack experto/a, contribuir a proyectos de código abierto, y eventualmente liderar un equipo de desarrollo en proyectos innovadores."] 
+
+---
+
+## 📫 ¡Conéctate conmigo!
+
+Puedes encontrarme en:
+- **GitHub**: [LucasDLT](https://github.com/LucasDLT)
+- **LinkedIn**: [https://linkedin.com/in/lucas-sebas]
+- **Correo electrónico**: [lucasebasdlt@gmail.com] 
+
+¡Gracias por visitar mi perfil! ✨
