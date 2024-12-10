@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 ¡Hola! Soy Lucas Sebastian de la TORRE
 
 ---
