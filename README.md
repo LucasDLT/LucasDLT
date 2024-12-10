@@ -43,7 +43,7 @@ Mi meta es ["convertirme en un desarrollador/a full-stack experto/a, contribuir 
 
 Puedes encontrarme en:
 - **GitHub**: [LucasDLT](https://github.com/LucasDLT)
-- **LinkedIn**: [https://linkedin.com/in/lucas-sebas]
+- **LinkedIn**: [lucas-sebas](https://linkedin.com/in/lucas-sebas)
 - **Correo electrónico**: [lucasebasdlt@gmail.com] 
 
 ¡Gracias por visitar mi perfil! ✨
