@@ -14,7 +14,7 @@
 
 Programador con experiencia en Backend y una inclinación natural hacia el Frontend y la experiencia de usuario en constante aprendizaje. 
 
-## 🛠️ Tecnologías que manejo
+## Stack utilizado en proyectos
 
 Estas son algunas de las herramientas y tecnologías con las que trabajo regularmente:
 
@@ -23,9 +23,10 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo regular
 - **Frameworks y Librerías**: [React, Next.js, Bootstrap, Express, WebSockets]
 - **Entornos de ejecución**: [Node.js]
 - **Bases de datos**: [PostgreSQL, MongoDB, Firebase]
-- **Otras herramientas**: [Git, Figma, Cloudinary]
+- **Otras herramientas**: [Git, Figma, Cloudinary, mailer, Oauth 2.0, recaptcha 2.0, mercado pago & stripe]
+- **Deploys**: Vercel, Render & Neon. 
 
-## 🚀 Tecnologías que estoy aprendiendo
+## Mi presente
 
 <p>Siempre estoy en constante aprendizaje. Actualmente me estoy enfocando en:</p>
 
