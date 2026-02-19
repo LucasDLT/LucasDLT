@@ -11,6 +11,14 @@ Lucas Sebastian de la TORRE
     style="max-height:300px; object-fit:cover; border-radius:10px;"
   />
 </p>
+<p align="center">
+  <img 
+  src="https://imgur.com/bO70tEV.jpg" 
+    width="100%" 
+    style="height:180px; object-fit:cover; border-radius:8px;"
+  />
+</p>
+
 
 
 ## Sobre mí
