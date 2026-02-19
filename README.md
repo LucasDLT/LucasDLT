@@ -10,7 +10,7 @@ Actualmente, me estoy formando en el área de IT y busco oportunidades para apli
 
 ---
 <img 
-  src="https://i.imgur.com/9ut3usu.jpg" 
+  src="[https://i.imgur.com/9ut3usu](https://imgur.com/lchqXwn).jpg" 
   width="100%" 
   style="max-height:300px; object-fit:cover;"
 />
