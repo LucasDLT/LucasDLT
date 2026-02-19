@@ -1,6 +1,9 @@
-# 👋 ¡Hola! Soy Lucas Sebastian de la TORRE
-
----
+Lucas Sebastian de la TORRE
+<img 
+  src="https://imgur.com/bO70tEV.jpg" 
+  width="100%" 
+  style="max-height:100px; object-fit:cover;"
+/>
 
 ## Sobre mí
 
@@ -9,11 +12,6 @@ Poseo una Tecnicatura Superior en Seguridad Pública y Ciudadana, y mi formació
 Actualmente, me estoy formando en el área de IT y busco oportunidades para aplicar mis habilidades en un nuevo entorno, para ello finalice con éxito cursos en Desarrollo web, Javascript y React Js, dictados en Coderhouse y para potenciar este conocimiento actualmente me encuentro en el tramo final de la formación intensiva como Full Stack Developer en Henry.
 
 ---
-<img 
-  src="https://imgur.com/bO70tEV.jpg" 
-  width="100%" 
-  style="max-height:300px; object-fit:cover;"
-/>
 
 ## 🛠️ Tecnologías que manejo
 
