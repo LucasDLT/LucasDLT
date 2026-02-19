@@ -6,7 +6,7 @@
     style="height:250px; object-fit:cover; border-radius:8px;"
   />
 </p>
-<img alt="Static Badge" src="https://img.shields.io/badge/github-blue%3Flogo%3Dgithub?style=social&logo=github&logoColor=blue" href="https://github.com/LucasDLT">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sebas/)
 
 <h1 align="center">Lucas Sebastian de la TORRE</h1>
 
