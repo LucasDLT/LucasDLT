@@ -7,7 +7,7 @@
   />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-sebas/">
+  <a href="https://www.linkedin.com/lucas-sebas/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lucas.sebas.dev@gmail.com">
