@@ -31,12 +31,12 @@ Programador con experiencia en Backend y una inclinación natural hacia el Front
 
 Estas son algunas de las herramientas y tecnologías con las que trabajo regularmente:
 
-- **Lenguajes de programación**: [JavaScript, TypeScript, HTML]
-- **Lenguajes de diseño y estilos**: [CSS, Sass, Styled Components, TailwindCSS]
-- **Frameworks y Librerías**: [React, Next.js, Bootstrap, Express, WebSockets]
-- **Entornos de ejecución**: [Node.js]
-- **Bases de datos**: [PostgreSQL, MongoDB, Firebase]
-- **Otras herramientas**: [Git, Figma, Cloudinary, mailer, Oauth 2.0, recaptcha 2.0, mercado pago & stripe]
+- **Lenguajes de programación**: JavaScript, TypeScript, HTML
+- **Lenguajes de diseño y estilos**: CSS, Sass, Styled Components, TailwindCSS
+- **Frameworks y Librerías**: React, Next.js, Bootstrap, Express, WebSockets
+- **Entornos de ejecución**: Node.js
+- **Bases de datos**: PostgreSQL, MongoDB, Firebase
+- **Otras herramientas**: Git, Figma, Cloudinary, mailer, Oauth 2.0, recaptcha 2.0, mercado pago & stripe
 - **Deploys**: Vercel, Render & Neon. 
 
 ## Mi presente
