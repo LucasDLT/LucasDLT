@@ -3,7 +3,7 @@
   <img 
   src="https://imgur.com/bO70tEV.jpg" 
     width="100%" 
-    style="height:190px; object-fit:cover; border-radius:8px;"
+    style="height:200px; object-fit:cover; border-radius:8px;"
   />
 </p>
 
@@ -12,9 +12,7 @@ Lucas Sebastian de la TORRE
 
 ## Sobre mí
 
-Soy un profesional con una trayectoria de 13 años en el ámbito de la seguridad pública, desarrolle y perfeccione habilidades esenciales que ahora busco aplicar en el sector IT. Durante mi carrera, desempeñé diversos roles que me permitieron adquirir una amplia experiencia en gestión de equipos, resolución de problemas y atención al cliente.
-Poseo una Tecnicatura Superior en Seguridad Pública y Ciudadana, y mi formación secundaria tuvo una orientación contable, lo que me brindó una sólida base en organización y gestión administrativa.
-Actualmente, me estoy formando en el área de IT y busco oportunidades para aplicar mis habilidades en un nuevo entorno, para ello finalice con éxito cursos en Desarrollo web, Javascript y React Js, dictados en Coderhouse y para potenciar este conocimiento actualmente me encuentro en el tramo final de la formación intensiva como Full Stack Developer en Henry.
+Programador con experiencia en Backend y una inclinación natural hacia el Frontend y la experiencia de usuario en constante aprendizaje. 
 
 ---
 
@@ -33,15 +31,9 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo regular
 
 ## 🚀 Tecnologías que estoy aprendiendo
 
-Siempre estoy en constante aprendizaje. Actualmente me estoy enfocando en:
+<p>Siempre estoy en constante aprendizaje. Actualmente me estoy enfocando en:</p>
 
-- [Chat Real Time, empleando WebSockets en servidor y cliente con persistencia de usuarios mediante inicio de sesion estandar y Oauth 2.0, chats publicos y privados mediante empleo de PostgreSQL y TypeORM]
-
----
-
-## 🌟 Mis objetivos
-
-Mi meta es ["convertirme en un desarrollador/a full-stack experto/a, contribuir a proyectos de código abierto, y eventualmente liderar un equipo de desarrollo en proyectos innovadores."] 
+<p>Chat Real Time, empleando WebSockets en servidor y cliente con persistencia de usuarios mediante inicio de sesion estandar y Oauth 2.0, chats publicos y privados mediante empleo de PostgreSQL y TypeORM</p>
 
 ---
 
