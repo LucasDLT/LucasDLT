@@ -6,7 +6,11 @@
     style="height:250px; object-fit:cover; border-radius:8px;"
   />
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sebas/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <h1 align="center">Lucas Sebastian de la TORRE</h1>
 
