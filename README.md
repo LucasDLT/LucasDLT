@@ -7,7 +7,7 @@
   />
 </p>
 
-Lucas Sebastian de la TORRE
+<h1 align="center">Lucas Sebastian de la TORRE</h1>
 
 
 ## Sobre mí
