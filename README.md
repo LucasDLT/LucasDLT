@@ -15,8 +15,8 @@ Actualmente, me estoy formando en el área de IT y busco oportunidades para apli
 Estas son algunas de las herramientas y tecnologías con las que trabajo regularmente:
 
 - **Lenguajes de programación**: [JavaScript, TypeScript, HTML]
-- **Lenguajes de diseño y estilos**: [CSS, Sass, Styled Components]
-- **Frameworks y Librerías**: [React, Next.js, Bootstrap, Express]
+- **Lenguajes de diseño y estilos**: [CSS, Sass, Styled Components, TailwindCSS]
+- **Frameworks y Librerías**: [React, Next.js, Bootstrap, Express, WebSockets]
 - **Entornos de ejecución**: [Node.js]
 - **Bases de datos**: [PostgreSQL, MongoDB, Firebase]
 - **Otras herramientas**: [Git, Figma, Cloudinary]
@@ -27,7 +27,7 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo regular
 
 Siempre estoy en constante aprendizaje. Actualmente me estoy enfocando en:
 
-- [C#]
+- [Chat Real Time, empleando WebSockets en servidor y cliente con persistencia de usuarios mediante inicio de sesion estandar y Oauth 2.0, chats publicos y privados mediante empleo de PostgreSQL y TypeORM]
 
 ---
 
