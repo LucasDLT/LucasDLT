@@ -9,6 +9,7 @@ Poseo una Tecnicatura Superior en Seguridad Pública y Ciudadana, y mi formació
 Actualmente, me estoy formando en el área de IT y busco oportunidades para aplicar mis habilidades en un nuevo entorno, para ello finalice con éxito cursos en Desarrollo web, Javascript y React Js, dictados en Coderhouse y para potenciar este conocimiento actualmente me encuentro en el tramo final de la formación intensiva como Full Stack Developer en Henry.
 
 ---
+<img href="https://imgur.com/a/PEzeLep">
 
 ## 🛠️ Tecnologías que manejo
 
