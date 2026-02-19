@@ -2,7 +2,7 @@ Lucas Sebastian de la TORRE
 <img 
   src="https://imgur.com/bO70tEV.jpg" 
   width="100%" 
-  style="max-height:100px; object-fit:cover;"
+  style="max-height:100px;"
 />
 
 ## Sobre mí
