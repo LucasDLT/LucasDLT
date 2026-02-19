@@ -3,7 +3,7 @@
   <img 
   src="https://imgur.com/bO70tEV.jpg" 
     width="100%" 
-    style="height:250px; object-fit:cover; border-radius:8px;"
+    style="height:250px; object-fit:cover; border-radius:30px;"
   />
 </p>
 <p align="center">
