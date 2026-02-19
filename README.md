@@ -10,15 +10,14 @@
   <a href="https://www.linkedin.com/in/lucas-sebas/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="mailto:lucas.sebas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Profesional-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Dev-6A5ACD?logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:lucasebasdlt@gmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-GitHub-EA4335?logo=gmail&logoColor=white" />
+  <a href="mailto:lucasebasdlt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Personal-2E8B57?logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 <h1 align="center">Lucas Sebastian de la TORRE</h1>
