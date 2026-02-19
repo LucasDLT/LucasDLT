@@ -7,10 +7,19 @@
   />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO/">
+  <a href="https://www.linkedin.com/in/lucas-sebas/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="mailto:lucas.sebas.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Profesional-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:lucasebasdlt@gmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-GitHub-EA4335?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <h1 align="center">Lucas Sebastian de la TORRE</h1>
 
@@ -37,11 +46,5 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo regular
 
 <p>Chat Real Time, empleando WebSockets en servidor y cliente con persistencia de usuarios mediante inicio de sesion estandar y Oauth 2.0, chats publicos y privados mediante empleo de PostgreSQL y TypeORM</p>
 
-## 📫 ¡Conéctate conmigo!
-
-Puedes encontrarme en:
-- **GitHub**: [LucasDLT](https://github.com/LucasDLT)
-- **LinkedIn**: [lucas-sebas](https://linkedin.com/in/lucas-sebas)
-- **Correo electrónico**: [lucasebasdlt@gmail.com] [lucas.sebas.dev@gmail.com] 
 
 ¡Gracias por visitar mi perfil! ✨
