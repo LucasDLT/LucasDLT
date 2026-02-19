@@ -46,4 +46,4 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo regular
 <p>Chat Real Time, empleando WebSockets en servidor y cliente con persistencia de usuarios mediante inicio de sesion estandar y Oauth 2.0, chats publicos y privados mediante empleo de PostgreSQL y TypeORM</p>
 
 
-¡Gracias por visitar mi perfil! ✨
+
