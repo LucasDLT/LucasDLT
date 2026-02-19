@@ -3,7 +3,7 @@
   <img 
   src="https://imgur.com/bO70tEV.jpg" 
     width="100%" 
-    style="height:200px; object-fit:cover; border-radius:8px;"
+    style="height:250px; object-fit:cover; border-radius:8px;"
   />
 </p>
 
@@ -13,8 +13,6 @@
 ## Sobre mí
 
 Programador con experiencia en Backend y una inclinación natural hacia el Frontend y la experiencia de usuario en constante aprendizaje. 
-
----
 
 ## 🛠️ Tecnologías que manejo
 
@@ -27,15 +25,11 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo regular
 - **Bases de datos**: [PostgreSQL, MongoDB, Firebase]
 - **Otras herramientas**: [Git, Figma, Cloudinary]
 
----
-
 ## 🚀 Tecnologías que estoy aprendiendo
 
 <p>Siempre estoy en constante aprendizaje. Actualmente me estoy enfocando en:</p>
 
 <p>Chat Real Time, empleando WebSockets en servidor y cliente con persistencia de usuarios mediante inicio de sesion estandar y Oauth 2.0, chats publicos y privados mediante empleo de PostgreSQL y TypeORM</p>
-
----
 
 ## 📫 ¡Conéctate conmigo!
 
